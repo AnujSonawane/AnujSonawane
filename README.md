@@ -19,11 +19,11 @@ Welcome to my GitHub profile! I'm Anuj Sonawane, a computer science fresher in t
 | LTIMindtree          | Data Science Intern           | Feb.2023 - Present     |
 | GENIOBITS Pvt. Limited           | UI/UX DESIGNER   | Feb.2022 - May.2022        |
 
-### ABC Inc.
+### LTIMINDTREE
 
 At LTIMindtree, I am responsible for developing and maintaining the company's data and visualising it.
 
-### XYZ Corp.
+### GENIOBITS
 
 At GENIOBITS Pvt. Limited, I was part of the team responsible for UI development of projects. My role involved designing and implementing various features of the platform using various design tools like figma, Blender3d, Adobe Photoshop, Adobe after effects and more.
 
